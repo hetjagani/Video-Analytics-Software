@@ -39,6 +39,6 @@
 
         
 
-        One can use different modules from the code. The code is simple to understand and different implementations of the modules are implemented in `object_detector` directory. Different pretrained models are stored in `object_detector/data/` directory.
+        One can use different modules from the code. The code is simple to understand and different implementations of the modules are implemented in `object_detector` directory. Different pretrained models are stored in `object_detector/data/` directory. You have to download weights for the models. The weights can be downloaded from above darknet link.
 
 
