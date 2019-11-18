@@ -29,7 +29,7 @@
 
 * Pytesseract
 
-* Darknet Library (for setup goto [darknet]([https://pjreddie.com/darknet/](https://pjreddie.com/darknet/). I advice to build with GPU)
+* Darknet Library (for setup goto [darknet](https://pjreddie.com/darknet/). I advice to build with GPU)
 
 * Tkinter (for GUI stuff)
 
